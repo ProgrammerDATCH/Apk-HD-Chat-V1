@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "786559178861",
+    "project_id": "hd-chat-550f0",
+    "storage_bucket": "hd-chat-550f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786559178861:android:112365c9b513eaf36a8764",
+        "android_client_info": {
+          "package_name": "com.hdchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786559178861-n1vg9qk1u0mm0cdug1587hvotm3ni6j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD199ZP75CllIdkHQrZAtuWGi3Q-XNdtFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786559178861-n1vg9qk1u0mm0cdug1587hvotm3ni6j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
